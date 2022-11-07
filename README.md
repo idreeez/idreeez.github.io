@@ -1,2 +1,2 @@
-# idreeez.github.io
-[test site](адрес "vk.com")
+# lonelyidreez!
+[test site](адрес "https://idreeez.github.io/test_site/")
